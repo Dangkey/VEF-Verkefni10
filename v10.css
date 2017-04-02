@@ -1,1 +1,16 @@
-#draggable { width: 150px; height: 150px; padding: 8px; }
+#draggable {
+	display: inline-block;
+width: 150px;
+height: 150px;
+padding: 8px; }
+img
+{
+	height: 150px;
+	width: 230px;
+}
+#googleMap
+{
+	position: absolute;
+	left: 265px;
+	top: 0px;
+}
